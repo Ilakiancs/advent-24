@@ -3,7 +3,7 @@ package day1
 import (
 	"testing"
 
-	"github.com/mikelikesbikes/advent-of-code-2024/util"
+	"github.com/ilakiancs/advent-24/util"
 )
 
 func TestPart1Example(t *testing.T) {
